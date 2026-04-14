@@ -17,17 +17,20 @@ The proposed system demonstrates improved accessibility, data security, and heal
 🚀 Key Features:
 
 👤 Patient Module
+
 Secure user registration and login
 Upload and manage medical reports
 Access health records anytime
 Personalized dashboard
 
 👨‍⚕️ Doctor Dashboard (Role-Based Access)
+
 Separate login for doctors
 Secure access to patient medical records
 Role-based authorization system
 
 📂 Digital Medical Record Management
+
 Secure storage of medical records and reports
 Centralized access to complete health history
 Organized and structured data management
@@ -35,28 +38,33 @@ Easy retrieval and sharing of reports
 Eliminates dependency on paper-based records
 
 🧠 AI-Based Disease Prediction
+
 Predicts possible diseases based on symptoms
 Supports early diagnosis and decision-making
 Enhances healthcare accessibility
 
 📅 Appointment Booking System
+
 Schedule appointments with doctors
 View available time slots
 Manage and track upcoming appointments
 Improves doctor-patient coordination
 
 ⏰ Smart Medication Reminder
+
 Automated reminders for medication schedules
 Improves treatment adherence
 Reduces chances of missed doses
 
 🔐 Security Features
+
 JWT (JSON Web Token) Authentication
 Password hashing using bcrypt
 Protected API routes
 Secure data handling
 
 📂 Data Management
+
 File upload using Multer
 Structured MySQL database
 Efficient data retrieval system
