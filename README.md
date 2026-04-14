@@ -74,6 +74,7 @@ Efficient data retrieval system
 🏗 System Architecture
 
 AAROGYA VAULT follows a Three-Tier Client–Server Architecture:
+
 Presentation Layer:
 User Interface (HTML, CSS, JavaScript)
 Handles user interaction and data visualization
@@ -91,6 +92,7 @@ File storage system for medical records
 🗄 Database Design:
 
 The database follows a relational model with structured entity relationships:
+
 Entities:
 Users
 Reports
@@ -118,22 +120,27 @@ Reports are linked to specific users
 🛠 Technology Stack
 
 Frontend:
+
 HTML5
 CSS3
 JavaScript
 
 Backend:
+
 Node.js
 Express.js
 
 Database:
+
 MySQL
 
 Security:
+
 JSON Web Token (JWT)
 bcrypt
 
 Middleware:
+
 Multer (File Upload)
 CORS
 
