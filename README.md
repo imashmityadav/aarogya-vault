@@ -4,6 +4,8 @@ A Smart Digital Healthcare Ecosystem for Secure Medical Record Management and to
 
 
 
+
+
 📌 Abstract
 
 AAROGYA VAULT is a comprehensive digital healthcare ecosystem designed to provide secure, scalable, and efficient management of medical data and to integrate patients, doctors, and insurance services into a unified platform. The system addresses the limitations of traditional paper-based healthcare record systems by introducing a centralized digital platform for storing, accessing, and managing medical information.
